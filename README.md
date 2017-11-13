@@ -39,3 +39,12 @@ index 1c66245..bf693b2 100644
 +
 +requireAll((require as any).context('./', true, /\.css$/));
 ```
+
+## Start app
+
+> Finish setup and start your app
+
+```shell-session
+npm start
+```
+
