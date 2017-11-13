@@ -1,5 +1,7 @@
 # react-typescript-startup
 
+The steps to create app using [React](https://reactjs.org/) + [TypeScript](http://typescriptlang.org/).
+
 ## Prepare
 
 Install [create-react-app](https://github.com/facebookincubator/create-react-app "create-react-app") in global.
